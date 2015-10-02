@@ -1,14 +1,16 @@
 # Lambda Hackathon 24-10-15
 
-Lambda functional programming hackathon.
+![Lambda](https://github.com/NitorCreations/LambdaHackathon/images/lambda.png)
 
-## Signup
+[Lambda](https://wiki.helsinki.fi/display/lambda/) functional programming hackathon.
+
+## Sigunp
 
 TODO
 
 ## Organizers
 
-Markku Rontu (Macroz, @zorcam, markku.rontu@nitorcreations.com)
+Markku Rontu ([Macroz](https://github.com/Macroz), [@zorcam](https://twitter.com/zorcam), markku.rontu@nitorcreations.com)
 
 ## Location
 
@@ -27,3 +29,6 @@ Kalevankatu 3 A 45, 00100 Helsinki
 |       | Relaxing, fn, discussion, music, refreshments, beer
 | 24:00 | Lights off, everybody out
 
+## Misc
+
+[Previous](https://wiki.helsinki.fi/display/lambda/Hackathon)
