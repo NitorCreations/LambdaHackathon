@@ -1,6 +1,10 @@
-# Lambda Hackathon October 24.10
+# Lambda Hackathon 24-10-15
 
 Lambda functional programming hackathon.
+
+## Signup
+
+TODO
 
 ## Organizers
 
@@ -14,9 +18,12 @@ Kalevankatu 3 A 45, 00100 Helsinki
 
 ## Schedule
 
-08:30 Doors open, time for setup
-09:00 Hacking begins, roundup of topics
-      Lunch break 
-21:00 Hacking ends, roundup of results
-      Relaxing, fn, discussion, music, refreshments, beer
-24:00 Lights off, everybody out
+| Time  | Description
+| ----- | -----------
+| 08:30 | Doors open, time for setup
+| 09:00 | Hacking begins, roundup of topics
+|       | Lunch break
+| 21:00 | Hacking ends, roundup of results
+|       | Relaxing, fn, discussion, music, refreshments, beer
+| 24:00 | Lights off, everybody out
+
