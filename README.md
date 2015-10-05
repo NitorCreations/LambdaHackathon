@@ -4,9 +4,9 @@
 
 [Lambda](https://wiki.helsinki.fi/display/lambda/) functional programming hackathon.
 
-## Sigunp
+## Sign up
 
-TODO
+[Sign up](http://lanyrd.com/2015/lambdahack002/)
 
 ## Organizers
 
@@ -31,4 +31,4 @@ Kalevankatu 3 A 45, 00100 Helsinki
 
 ## Misc
 
-[Previous](https://wiki.helsinki.fi/display/lambda/Hackathon)
+[Previous Lambda Hackathon](https://wiki.helsinki.fi/display/lambda/Hackathon)
