@@ -1,6 +1,6 @@
 # Lambda Hackathon 24-10-15
 
-![Lambda](https://github.com/NitorCreations/LambdaHackathon/images/lambda.png?raw=true)
+![Lambda](https://raw.github.com/NitorCreations/LambdaHackathon/master/images/lambda.png)
 
 [Lambda](https://wiki.helsinki.fi/display/lambda/) functional programming hackathon.
 
