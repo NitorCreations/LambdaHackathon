@@ -9,13 +9,17 @@
 
 ## Organizers
 
-Markku Rontu ([Macroz](https://github.com/Macroz), [@zorcam](https://twitter.com/zorcam), markku.rontu@nitorcreations.com)
+Markku Rontu ([Macroz](https://github.com/Macroz), [@zorcam](https://twitter.com/zorcam), markku.rontu@iki.fi / markku.rontu@nitor.fi)
 
 ## Location
 
 [Nitor Creations](https://www.nitor.fi)
 
 Kalevankatu 3 A 45, 00100 Helsinki
+
+## Twitter
+
+\#LambdaHack002
 
 ## Schedule
 
