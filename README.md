@@ -4,7 +4,8 @@
 
 [Lambda](https://wiki.helsinki.fi/display/lambda/) functional programming hackathon.
 
-[Sign up here!](http://lanyrd.com/2015/lambdahack002/)
+[Sign up here!](https://www.eventbrite.co.uk/e/lambda-hackathon-24-10-15-tickets-18939945888)
+([Lanyrd](http://lanyrd.com/2015/lambdahack002/))
 
 ## Organizers
 
