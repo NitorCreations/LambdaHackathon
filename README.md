@@ -1,12 +1,10 @@
-<img src="https://raw.github.com/NitorCreations/LambdaHackathon/master/images/lambda.png" align="right" />
-
 # Lambda Hackathon 24-10-15
+
+<img src="https://raw.github.com/NitorCreations/LambdaHackathon/master/images/lambda.png" align="right" height="64" />
 
 [Lambda](https://wiki.helsinki.fi/display/lambda/) functional programming hackathon.
 
-## Sign up
-
-[Sign up](http://lanyrd.com/2015/lambdahack002/)
+[Sign up here!](http://lanyrd.com/2015/lambdahack002/)
 
 ## Organizers
 
