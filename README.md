@@ -1,10 +1,10 @@
-<img src="https://raw.github.com/NitorCreations/LambdaHackathon/master/images/lambda.png" height="64" />
+<img src="https://raw.github.com/NitorCreations/LambdaHackathon/master/images/lambda.png" height="64" align="right">
 
 # Lambda Hackathon 24-10-15
 
 [Lambda](https://wiki.helsinki.fi/display/lambda/) functional programming hackathon.
 
-Program what you wish using functional languages. 
+Program what you wish using functional languages. >
 
 [Sign up here!](https://www.eventbrite.co.uk/e/lambda-hackathon-24-10-15-tickets-18939945888)
 
