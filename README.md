@@ -8,6 +8,8 @@ Program what you wish using functional languages.
 
 [Sign up here!](https://www.eventbrite.co.uk/e/lambda-hackathon-24-10-15-tickets-18939945888)
 
+<img src="https://raw.github.com/NitorCreations/LambdaHackathon/master/images/nitor.jpg" height="1024" />
+
 ## Format
 
 This time Lambda Hackathon is arranged as a 12 hour event. The idea is to start at 09 with presenting to others in a few sentences, what you are going to do. Then at the end, around 21 o'clock, present your results, whatever they may be. Finally there's time to relax and discuss. 
