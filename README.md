@@ -34,7 +34,7 @@ Kalevankatu 3 A 45, 00100 Helsinki
 | ----- | -----------
 | 08:30 | Doors open, time for setup
 | 09:00 | Hacking begins, roundup of topics
-| 12:00 | Food break 1 (nearby areas, as you wish)
+| 12:00 | Food break 1 (nearby areas, as you wish, pizza?)
 | 17:00 | Food break 2 (at the office)
 | 21:00 | Hacking ends, roundup of results
 |       | Relaxing, fn, discussion, music, refreshments, beer
