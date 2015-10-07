@@ -4,7 +4,7 @@
 
 [Lambda](https://wiki.helsinki.fi/display/lambda/) functional programming hackathon.
 
-Program what you wish using functional languages. >
+Program what you wish using functional languages.
 
 ### [Sign up here!](https://www.eventbrite.co.uk/e/lambda-hackathon-24-10-15-tickets-18939945888)
 
